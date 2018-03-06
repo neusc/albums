@@ -1,0 +1,7 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "semi": 0,
+    "space-before-function-paren": 0
+  }
+}
